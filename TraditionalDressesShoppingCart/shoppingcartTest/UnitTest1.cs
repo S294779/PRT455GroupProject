@@ -4,11 +4,13 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace shoppingcartTest
 {
     [TestClass]
-    public class UnitTest1
+    public class equalTest
     {
         [TestMethod]
         public void TestMethod1()
         {
+            
+           
         }
     }
 }
