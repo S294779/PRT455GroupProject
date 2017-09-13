@@ -26,5 +26,13 @@ namespace WebApplication1.Controllers
 
             return View();
         }
+        public ActionResult Cart()
+        {
+                  return View();
+        }
+        public ActionResult Item()
+        {
+            return View();
+        }
     }
 }
